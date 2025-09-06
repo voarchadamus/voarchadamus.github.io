@@ -3,7 +3,9 @@ layout: post
 title: You're up and running!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Mercury, also known as quicksilver (etymologically "water-silver"), is a chemical element denoted as **Hg** 
+from Greek *ὑδράργυρος* (and Latin *hydrargyrum*)
+(10 letters, 400 + 4 + 100 + 1 + 100 + 3 + 400 + 100 + 70 + 6 = 1378 = 19 = 10) with the atomic number of 80.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
